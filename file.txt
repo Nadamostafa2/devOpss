@@ -5,3 +5,4 @@ change in v2
 first change in new branch
 change in main branch
 change in main branch & conflict
+change in feature branch
