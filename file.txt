@@ -6,3 +6,6 @@ first change in new branch
 change in main branch
 change in main branch & conflict
 change in feature branch
+change in fixbug
+change2 in fixbug
+
